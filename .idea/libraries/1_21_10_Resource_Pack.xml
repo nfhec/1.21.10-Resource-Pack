@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="1.21.10-Resource-Pack">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/VanillaTweaks_r110407_MC1.21.x.zip!/" />
+      <root url="jar://$PROJECT_DIR$/VanillaTweaks_r569246_MC1.21.x.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
